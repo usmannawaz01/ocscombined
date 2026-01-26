@@ -5,7 +5,7 @@ A GUI-based desktop tool for **converting** Old Church Slavonic (OCS) text and *
 
 ## Features
 * **Text Conversion**
-  *Converts OCS text into the target/standardized form using built-in conversion rules.*
+  *Converts OCS text into the target/standardized form using built-in conversion rules/mapping.*
 * **Text Lemmatization**
   *Assigns the most frequent lemma to each word using a curated word–lemma dictionary.*
 * **Word–Lemma Table**
