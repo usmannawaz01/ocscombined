@@ -21,4 +21,11 @@ Download the Windows executable here:
 https://drive.google.com/file/d/1A_L7D18CKcBn-yOEuyTMabwJ0gKpgeSY/view?usp=sharing
 
 
+## Web-Based Application
+
+The Tool is also available as a web-based application and can be used directly in a browser:
+
+[https://huggingface.co/spaces/usmannawaz/converter](https://huggingface.co/spaces/usmannawaz/ocscomtool)
+
+
  Code and Dataset details will be available soon.
