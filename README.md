@@ -43,7 +43,7 @@ The model is designed to improve generalization to unseen word forms, orthograph
 
 Use the web application here:
 
-[https://huggingface.co/spaces/usmannawaz/converter](https://huggingface.co/spaces/usmannawaz/ocscomtool)
+[[https://huggingface.co/spaces/usmannawaz/converter](https://huggingface.co/spaces/usmannawaz/ocscomtool)](https://huggingface.co/spaces/usmannawaz/ocscomtool)
 
 
 ## Model Retraining
